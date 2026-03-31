@@ -1,0 +1,10 @@
+usage_id,shipment_id,item_name,quantity_used
+1,1001,Small Box,15
+2,1001,Dry Ice Pack,20
+3,1002,Small Box,10
+4,1002,Dry Ice Pack,12
+5,1003,Large Box,20
+6,1003,Dry Ice Pack,30
+7,1004,Small Box,8
+8,1005,Large Box,12
+9,1005,Dry Ice Pack,25

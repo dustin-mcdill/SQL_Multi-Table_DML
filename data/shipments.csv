@@ -1,0 +1,6 @@
+shipment_id,shipment_date,customer,items_shipped,total_value
+1001,2025-03-01,LabCorp,15,800
+1002,2025-03-02,BioHealth,10,500
+1003,2025-03-03,GenTech,20,1200
+1004,2025-03-05,LabCorp,8,400
+1005,2025-03-06,BioHealth,12,700

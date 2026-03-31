@@ -1,0 +1,7 @@
+item_id,item_name,category,unit_cost,on_hand
+1,Protein Vial A,Product,25.00,120
+2,Protein Vial B,Product,30.00,80
+3,Cold Storage Kit,Product,50.00,40
+4,Small Box,Packaging,1.50,300
+5,Large Box,Packaging,2.50,150
+6,Dry Ice Pack,Packaging,3.00,200
